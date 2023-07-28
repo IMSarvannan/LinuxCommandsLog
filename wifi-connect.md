@@ -1,4 +1,4 @@
-#LINUX COMMNAND TO CONNECT TO WIFI FROM TERMINAL
+# LINUX COMMNAND TO CONNECT TO WIFI FROM TERMINAL
 ```
 ims@ims-System-Product-Name:~$ nmcli device list
 Error: argument 'list' not understood. Try passing --help instead.
